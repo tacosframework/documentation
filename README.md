@@ -1,5 +1,5 @@
 # TACOS documentation
-Some lightweight starter documentation
+Some lightweight documentation to start
 
 ## Definitions
  - Roles:  
